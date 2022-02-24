@@ -1,6 +1,12 @@
 # HandWrittenDigitRecognition
 Neural Network to recognize hand written digit, written in C.
 
+*Neural Network sees a 4 with high confidence*
+![example](https://user-images.githubusercontent.com/100319151/155535844-4c1b181a-0b84-459a-be9e-1ff612157652.PNG)
+*Neural Network sees a 2 with high confidence*
+![example2](https://user-images.githubusercontent.com/100319151/155535987-6d62d1b3-f541-47b0-9aed-e1cce3c187d1.PNG)
+
+
 INFORMATIONS :
 
 	This project was a way to learn about neural networks and deep learning.
