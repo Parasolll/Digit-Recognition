@@ -38,7 +38,7 @@ SDL_Application *SDL_Application_create_new(const char *title,
 
 	if(app_created->pRenderer== NULL)
 	{
-		NN_free(app_created->pWindow);
+		SDL_DestroyWindow(app_created->pWindow);
 		NN_free(app_created);
 		SDL_Quit();
 		return NULL;
